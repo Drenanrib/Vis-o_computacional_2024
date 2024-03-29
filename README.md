@@ -1,1 +1,1 @@
-# Vis-o_computacional_2024
+# Visao_computacional_2024
